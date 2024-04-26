@@ -1,0 +1,13 @@
+D:\my_Terraria_Plugins\TSPlayTime\TSPlayTime\bin\Debug\net6.0\HttpServer.dll
+D:\my_Terraria_Plugins\TSPlayTime\TSPlayTime\bin\Debug\net6.0\TSPlayTime.deps.json
+D:\my_Terraria_Plugins\TSPlayTime\TSPlayTime\bin\Debug\net6.0\TSPlayTime.dll
+D:\my_Terraria_Plugins\TSPlayTime\TSPlayTime\bin\Debug\net6.0\TSPlayTime.pdb
+D:\my_Terraria_Plugins\TSPlayTime\TSPlayTime\obj\Debug\net6.0\TSPlayTime.csproj.AssemblyReference.cache
+D:\my_Terraria_Plugins\TSPlayTime\TSPlayTime\obj\Debug\net6.0\TSPlayTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_Terraria_Plugins\TSPlayTime\TSPlayTime\obj\Debug\net6.0\TSPlayTime.AssemblyInfoInputs.cache
+D:\my_Terraria_Plugins\TSPlayTime\TSPlayTime\obj\Debug\net6.0\TSPlayTime.AssemblyInfo.cs
+D:\my_Terraria_Plugins\TSPlayTime\TSPlayTime\obj\Debug\net6.0\TSPlayTime.csproj.CoreCompileInputs.cache
+D:\my_Terraria_Plugins\TSPlayTime\TSPlayTime\obj\Debug\net6.0\TSPlayTime.dll
+D:\my_Terraria_Plugins\TSPlayTime\TSPlayTime\obj\Debug\net6.0\refint\TSPlayTime.dll
+D:\my_Terraria_Plugins\TSPlayTime\TSPlayTime\obj\Debug\net6.0\TSPlayTime.pdb
+D:\my_Terraria_Plugins\TSPlayTime\TSPlayTime\obj\Debug\net6.0\ref\TSPlayTime.dll

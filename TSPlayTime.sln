@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSPlayTime", "TSPlayTime\TSPlayTime.csproj", "{B7BB9251-5D99-40DA-A40B-CB90A4DF6944}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7BB9251-5D99-40DA-A40B-CB90A4DF6944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7BB9251-5D99-40DA-A40B-CB90A4DF6944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7BB9251-5D99-40DA-A40B-CB90A4DF6944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7BB9251-5D99-40DA-A40B-CB90A4DF6944}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C14414E0-EC9C-48E3-A5A2-6AF5C7048AF0}
+	EndGlobalSection
+EndGlobal
